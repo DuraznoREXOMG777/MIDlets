@@ -1,0 +1,21 @@
+MIDlet-6: DateTextFieldME, , Helloworld.DateTextFieldME
+MIDlet-7: ChoiceGroupME, , Helloworld.ChoiceGroupME
+MIDlet-8: GaugeME, , Helloworld.GaugeME
+MIDlet-9: AlertME, , Helloworld.AlertME
+MIDlet-2: BajoNivelME, , Helloworld.BajoNivelME
+MIDlet-3: FormCommandME, , Helloworld.FormCommandME
+MIDlet-4: StringItemME, ,Helloworld.StringItemME
+MIDlet-5: Maravilloso, , Helloworld.Maravilloso
+MIDlet-11: CanvasME, , Helloworld.CanvasME
+MIDlet-12: Maravilloso2, , Helloworld.Maravilloso2
+MIDlet-1: Helloworld, ,Helloworld.AltoNivelME
+MIDlet-10: Wonderful, , Helloworld.Wonderful
+MIDlet-15: Rebota, , Helloworld.Rebota
+MIDlet-16: Sinus, , Helloworld.Sinus
+MIDlet-13: ArcoME, , Helloworld.ArcoME
+MIDlet-14: Triangle, , Helloworld.Triangle
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: Helloworld
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

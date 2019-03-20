@@ -1,0 +1,8 @@
+MIDlet-2: SonidosMME, ,Sonido.SonidosME
+MIDlet-3: AgendaME2, ,EjercicioAgenda.AgendaME
+MIDlet-1: MoverImagenME, , Imagen.MoverImagenME
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: Laboratorio3
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

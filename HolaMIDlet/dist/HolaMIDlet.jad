@@ -1,0 +1,30 @@
+MIDlet-1: main, ,Ejercicio1.Main
+MIDlet-10: ListME, , Ejercicio10.ListME
+MIDlet-11: CanvasME, , Ejercicio11.CanvasME
+MIDlet-12: PrimitivasME, , Ejercicio12.PrimitivasME
+MIDlet-13: ArcoME, , Ejercicio13.ArcoME
+MIDlet-14: TextosME, , Ejercicio14.TextosME
+MIDlet-15: ImagenCanvasME, , Ejercicio15.ImagenCanvasME
+MIDlet-16: MueveTeclaME, , Ejercicio16.MueveTeclaME
+MIDlet-17: RebotaME, , Ejercicio17.RebotaME
+MIDlet-18: AnimationSoundME, , Ejercicio18.AnimationSoundME
+MIDlet-19: IsPrime, , Primo.IsPrime
+MIDlet-2: LowLevelComponent, , Ejercicio2.LowLevelComponent
+MIDlet-20: WonderfulME, , Maravilloso.WonderfulME
+MIDlet-21: FibonacciME, , Fibonacci.FibonacciME
+MIDlet-22: PalindromeME, , Palindrome.PalindromeME
+MIDlet-23: AgendaME, ,EjercicioAgenda.AgendaME
+MIDlet-3: FormCommand, , Ejercicio3.FormCommand
+MIDlet-4: StringItemME, , Ejercicio4.StringItemME
+MIDlet-5: ImagesDir, , Ejercicio5.ImagesDir
+MIDlet-6: DateTextFieldME, , Ejercicio6.DateTextFieldME
+MIDlet-7: ChoiceGroupME, , Ejercicio7.ChoiceGroupME
+MIDlet-8: GaugeME, , Ejercicio8.GaugeME
+MIDlet-9: AlertME, , Ejercicio9.AlertME
+MIDlet-Jar-Size: 5186778
+MIDlet-Jar-URL: HolaMIDlet.jar
+MIDlet-Name: HolaMIDlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

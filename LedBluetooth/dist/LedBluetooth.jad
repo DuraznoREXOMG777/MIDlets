@@ -1,0 +1,8 @@
+MIDlet-1: BluetoothUI, , com.escom.ipn.mx.ledbluetooth.BluetoothUI
+MIDlet-Jar-Size: 14375
+MIDlet-Jar-URL: LedBluetooth.jar
+MIDlet-Name: LedBluetooth
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

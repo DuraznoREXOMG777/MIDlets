@@ -1,0 +1,6 @@
+MIDlet-1: BluetoothUI, , com.escom.ipn.mx.ledbluetooth.BluetoothUI
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: LedBluetooth
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
